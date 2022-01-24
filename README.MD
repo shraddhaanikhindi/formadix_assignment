@@ -1,9 +1,13 @@
 # - Cypress Example
 
 Author : Shraddha Anikhindi
+
 Version : 1.0
+
 Date   : 24/01/2022
+
 Email  : shraddha.a.anikhindi@gmail.com
+
 Description:
 An example for Formadix assignment ryze application project using the automation tool, [Cypress](httpswww.cypress.io). 
 
